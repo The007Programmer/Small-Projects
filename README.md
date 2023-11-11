@@ -1,3 +1,6 @@
 # Small-Projects
 
-This Repository is for projects too small for me to waste my time making a repository for each one lol. Each folder here on the main page contains one projects. Enjoy!
+## This repository is for a collection of smaller projects which are still semi-large contributions to my coding progress.
+
+## Currently this includes 1 project:
+- AP CSP PLTW 1.1.9 Project
